@@ -42,33 +42,7 @@
 
 ---
 
-## 📂 Projects
 
-### 🌐 Frontend Projects
-- 🔹 **Portfolio Website** – HTML, CSS, JavaScript  
-- 🔹 **React Dashboard UI** – Modern, reusable components  
-
-### 💻 Backend Projects
-- 🔹 **Employee Management API** – Spring Boot, REST, MySQL  
-- 🔹 **Authentication Service** – JWT & Spring Security  
-
-### 🧪 Testing Projects
-- 🔹 **Manual Test Case Repository** – Functional & regression testing  
-- 🔹 **Bug Tracking Samples** – Defect life-cycle documentation  
-
-### 🔄 Full Stack Projects
-- 🔹 **Employee Management System** – React + Spring Boot  
-- 🔹 **Login & Registration App** – End-to-end authentication flow  
-
----
-
-## 🚀 What I Do
-✔ Build end-to-end web applications  
-✔ Develop clean & scalable REST APIs  
-✔ Perform functional and regression testing  
-✔ Follow best coding and testing practices  
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
