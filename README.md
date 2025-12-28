@@ -8,9 +8,9 @@
 ---
 
 ## 👨‍💻 About Me
-- 💡 Passionate **Java Full Stack Developer & Manual Tester**  
+- 💡 Java Full Stack Developer with strong manual testing skills  
 - 🚀 Building scalable backend applications using **Spring Boot**  
-- 🎨 Developing responsive UIs with modern frontend technologies  
+- 🎨 Creating responsive and user-friendly frontend interfaces  
 - 🧪 Ensuring software quality through structured manual testing  
 - 📍 India  
 
@@ -33,14 +33,7 @@
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
 </p>
 
-### 🗄️ Database & Tools
-<p>
-  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/Maven-red?style=for-the-badge&logo=apachemaven"/>
-</p>
-
-### 🧪 Manual Testing
+### 🧪 Testing
 <p>
   <img src="https://img.shields.io/badge/Manual_Testing-grey?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Test_Case_Design-blueviolet?style=for-the-badge"/>
@@ -49,11 +42,31 @@
 
 ---
 
+## 📂 Projects
+
+### 🌐 Frontend Projects
+- 🔹 **Portfolio Website** – HTML, CSS, JavaScript  
+- 🔹 **React Dashboard UI** – Modern, reusable components  
+
+### 💻 Backend Projects
+- 🔹 **Employee Management API** – Spring Boot, REST, MySQL  
+- 🔹 **Authentication Service** – JWT & Spring Security  
+
+### 🧪 Testing Projects
+- 🔹 **Manual Test Case Repository** – Functional & regression testing  
+- 🔹 **Bug Tracking Samples** – Defect life-cycle documentation  
+
+### 🔄 Full Stack Projects
+- 🔹 **Employee Management System** – React + Spring Boot  
+- 🔹 **Login & Registration App** – End-to-end authentication flow  
+
+---
+
 ## 🚀 What I Do
-✔ Develop full stack web applications  
-✔ Design and implement RESTful APIs  
-✔ Perform functional & regression testing  
-✔ Write clean, maintainable, and testable code  
+✔ Build end-to-end web applications  
+✔ Develop clean & scalable REST APIs  
+✔ Perform functional and regression testing  
+✔ Follow best coding and testing practices  
 
 ---
 
@@ -66,8 +79,14 @@
 
 ## 📫 Connect With Me
 <p>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
   <a href="https://www.linkedin.com/in/vishalddoke" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/vishalddoke" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/>
   </a>
   <a href="mailto:vishaldoke.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
@@ -76,4 +95,4 @@
 
 ---
 
-⭐ *Building reliable applications with quality and care.*
+⭐ *Delivering quality software from UI to database.*
