@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">Java Full Stack Developer</h3>
+<h3 align="center">Java Full Stack Developer | Manual Tester</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat"/>
@@ -8,9 +8,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 💡 Passionate **Java Full Stack Developer**  
-- 🚀 Building scalable applications using **Spring Boot**  
+- 💡 Passionate **Java Full Stack Developer & Manual Tester**  
+- 🚀 Building scalable backend applications using **Spring Boot**  
 - 🎨 Developing responsive UIs with modern frontend technologies  
+- 🧪 Ensuring software quality through structured manual testing  
 - 📍 India  
 
 ---
@@ -39,13 +40,20 @@
   <img src="https://img.shields.io/badge/Maven-red?style=for-the-badge&logo=apachemaven"/>
 </p>
 
+### 🧪 Manual Testing
+<p>
+  <img src="https://img.shields.io/badge/Manual_Testing-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Test_Case_Design-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Defect_Tracking-red?style=for-the-badge"/>
+</p>
+
 ---
 
 ## 🚀 What I Do
-✔ Develop RESTful APIs  
-✔ Build full stack web applications  
-✔ Write clean, maintainable code  
-✔ Follow best software design practices  
+✔ Develop full stack web applications  
+✔ Design and implement RESTful APIs  
+✔ Perform functional & regression testing  
+✔ Write clean, maintainable, and testable code  
 
 ---
 
@@ -68,4 +76,4 @@
 
 ---
 
-⭐ *Turning ideas into scalable full stack applications.*
+⭐ *Building reliable applications with quality and care.*
